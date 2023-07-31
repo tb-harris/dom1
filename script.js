@@ -103,7 +103,7 @@ secondElement.style["background-color"] = randColor;
 
 
 // declare an array with different colors
-let colorsArray = ["pink", "purple", "gold", "indigo", "teal", "aqua"];
+// let colorsArray = ["pink", "purple", "gold", "indigo", "teal", "aqua"];
 
 // get a reference to all the h1
 let allh1Array = document.getElementsByClassName("title");
